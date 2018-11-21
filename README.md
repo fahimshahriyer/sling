@@ -1,6 +1,6 @@
 # Sling - React/Redux/React-Router Admin Dashboard Template
 
-## Installaiton
+## Installation
 
 Change your directory to the `documentation\build` folder and run `serve index.html` to read
 instructions about how to use this template.

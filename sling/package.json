@@ -1,0 +1,53 @@
+{
+  "name": "sling",
+  "version": "0.1.0",
+  "description": "React Dashboard",
+  "private": false,
+  "main": "dist/index.js",
+  "dependencies": {
+    "@material-ui/core": "^3.1.0",
+    "@material-ui/icons": "^3.0.1",
+    "@nivo/bar": "^0.46.0",
+    "@nivo/line": "^0.46.0",
+    "@nivo/pie": "^0.46.0",
+    "@nivo/radar": "^0.47.1",
+    "@nivo/scatterplot": "^0.47.1",
+    "@nivo/stream": "^0.47.1",
+    "@nivo/sunburst": "^0.47.1",
+    "downshift": "^2.1.0",
+    "google-map-react": "^1.0.6",
+    "material-ui-pickers": "^1.0.0-rc.14",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-jss": "^8.6.1",
+    "react-number-format": "^3.5.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-smooth-scrollbar": "^8.0.6",
+    "react-text-mask": "^5.4.3",
+    "react-trend": "^1.2.4",
+    "recompose": "^0.28.2",
+    "redux": "^4.0.0",
+    "redux-saga": "^0.16.0",
+    "smooth-scrollbar": "^8.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "precommit": "pretty-quick --staged"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "husky": "^0.14.3",
+    "lint-staged": "^7.2.2",
+    "prettier": "^1.14.2",
+    "pretty-quick": "^1.6.0",
+    "redux-devtools-extension": "^2.13.5"
+  }
+}
